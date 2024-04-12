@@ -1,0 +1,18 @@
+The 2 Models are Equivalent 
+
+Their gate Equalities are as described bellow
+
+Input File's Specs. Gate number(First Input,Second Input)-->Output == Golden Standards File's Specs. Gate number(First Input,Second Input)-->Output
+
+G1(12,12)-->15 == G1(1,1)-->4
+G4(15,25)-->45 == G4(4,5)-->7
+G5(35,45)-->55 == G5(6,7)-->8
+G10(55,66)-->62 == G6(8,3)-->9
+G6(55,62)-->72 == G7(8,9)-->10
+G8(72,82)-->92 == G9(10,11)-->12
+G7(62,66)-->82 == G8(9,3)-->11
+G9(66,55)-->102 == G10(3,8)-->13
+G12(102,112)-->122 == G12(13,14)-->15
+G2(22,22)-->25 == G2(2,2)-->5
+G3(12,22)-->35 == G3(1,2)-->6
+G11(12,22)-->112 == G11(1,2)-->14
